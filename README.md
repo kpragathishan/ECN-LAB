@@ -52,8 +52,9 @@
  *5.Reduce the RPS to its minimum value and switch OFF the supply.*
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
-
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/fa8d6056-60f0-478c-b462-75e654b10a36" />
 **RESULT:**
+
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
 
